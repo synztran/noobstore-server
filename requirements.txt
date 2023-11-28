@@ -1,0 +1,8 @@
+fastapi
+Pillow
+python-multipart
+transformers
+uvicorn
+motor
+pydantic[email]
+datetime
